@@ -23,7 +23,7 @@ provider "azurerm" {
 ```
 
 
-## Features enable of Compartment configurations for this module:
+## Features enable of Resource Group configurations for this module:
 
 - Resource group
 

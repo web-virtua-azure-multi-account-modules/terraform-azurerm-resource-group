@@ -22,7 +22,7 @@ variable "use_tags_default" {
 }
 
 variable "tags" {
-  description = "Tags to compartment"
+  description = "Tags to resource group"
   type    = map(any)
   default = {}
 }
